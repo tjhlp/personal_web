@@ -37,9 +37,9 @@ nav.nav ul li span.eng{
 	position:absolute;
 	bottom:0;
 	width:800px;
-	height:704px;
+	height:620px;
 	background-image:url(../images/yuan.png);
-	background-size:100% auto;
+	background-size:85% auto;
 	background-repeat:no-repeat;
 	left:50%;
 	margin-left:-400px;
@@ -63,7 +63,7 @@ nav.nav ul li span.eng{
 	opacity:0.8;
 }
 .section.active .content-1 span{
-	margin-left:0;
+	margin-left:-60px;
 }
 
 .content-2{
